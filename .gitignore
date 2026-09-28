@@ -1,0 +1,16 @@
+# build artefacts from local syntax checks
+*.o
+*.out
+*.exe
+a.out
+
+# editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# python, once the .py solutions land
+__pycache__/
+*.pyc
