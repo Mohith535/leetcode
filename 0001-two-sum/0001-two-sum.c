@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Easy
  *  Topics       : Array, Hash Table
- *  Link         : https://leetcode.com/problems/two-sum/
+ *  Problem      : https://leetcode.com/problems/two-sum/
  *
  *  Approach     : Brute-force every pair until the target shows up.
  *  Time         : O(n^2)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Easy
  *  Topics       : Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm
- *  Link         : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+ *  Problem      : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
  *
  *  Approach     : Slide the needle across the haystack and compare.
  *  Time         : O(n * m)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

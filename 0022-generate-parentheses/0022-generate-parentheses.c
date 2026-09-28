@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : String, Dynamic Programming, Backtracking, Bracket Sequences
- *  Link         : https://leetcode.com/problems/generate-parentheses/
+ *  Problem      : https://leetcode.com/problems/generate-parentheses/
  *
  *  Approach     : Backtracking constrained so only valid strings are ever built.
  *  Time         : O(4^n / sqrt(n))
  *  Space        : O(n)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

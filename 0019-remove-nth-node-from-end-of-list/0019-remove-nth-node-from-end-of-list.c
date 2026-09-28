@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : Linked List, Two Pointers
- *  Link         : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ *  Problem      : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
  *
  *  Approach     : Two pointers held exactly `n` nodes apart, so one pass finds the target.
  *  Time         : O(L)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

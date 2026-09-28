@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Hard
  *  Topics       : Array, Binary Search, Divide and Conquer
- *  Link         : https://leetcode.com/problems/median-of-two-sorted-arrays/
+ *  Problem      : https://leetcode.com/problems/median-of-two-sorted-arrays/
  *
  *  Approach     : Merge both sorted arrays outright, then read the middle.
  *  Time         : O(m + n)
  *  Space        : O(m + n)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

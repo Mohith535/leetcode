@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Hard
  *  Topics       : Linked List, Recursion
- *  Link         : https://leetcode.com/problems/reverse-nodes-in-k-group/
+ *  Problem      : https://leetcode.com/problems/reverse-nodes-in-k-group/
  *
  *  Approach     : Walk ahead to confirm a full group of `k` exists, then reverse it in place.
  *  Time         : O(n)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : Math, Bit Manipulation
- *  Link         : https://leetcode.com/problems/divide-two-integers/
+ *  Problem      : https://leetcode.com/problems/divide-two-integers/
  *
  *  Approach     : Long division in binary: double the divisor while it fits, subtract, repeat.
  *  Time         : O(log^2 n)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

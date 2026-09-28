@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : Math
- *  Link         : https://leetcode.com/problems/reverse-integer/
+ *  Problem      : https://leetcode.com/problems/reverse-integer/
  *
  *  Approach     : Pop digits off the back and push them on, checking for overflow *before* it happens.
  *  Time         : O(log x)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Hard
  *  Topics       : String, Dynamic Programming, Recursion
- *  Link         : https://leetcode.com/problems/regular-expression-matching/
+ *  Problem      : https://leetcode.com/problems/regular-expression-matching/
  *
  *  Approach     : Bottom-up DP over prefixes: `dp[i][j]` = does `s[0..i)` match `p[0..j)`?
  *  Time         : O(m * n)
  *  Space        : O(m * n)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

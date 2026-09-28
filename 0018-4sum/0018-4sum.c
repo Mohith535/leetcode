@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : Array, Two Pointers, Sorting
- *  Link         : https://leetcode.com/problems/4sum/
+ *  Problem      : https://leetcode.com/problems/4sum/
  *
  *  Approach     : Two nested anchors plus the same two-pointer sweep - 3Sum with one more loop.
  *  Time         : O(n^3)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

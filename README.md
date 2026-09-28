@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1f6feb,100:00b8a3&height=190&section=header&text=LeetCode%20in%20C&fontSize=54&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=K%20MOHITH%20KANNAN%20%E2%80%94%20pointers%2C%20not%20libraries&descAlignY=57&descSize=15" width="100%" alt="LeetCode in C" />
 
 <a href="https://github.com/Mohith535">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=1F6FEB&center=true&vCenter=true&width=760&height=46&lines=34%20problems%20solved%20in%20pure%20C%3B9%20Easy%20%C2%B7%2019%20Medium%20%C2%B7%206%20Hard%3BZero%20warnings%20at%20-O2%20-Wall%20-Wextra%3BEvery%20line%20reasoned%20out%20by%20K%20Mohith%20Kannan" alt="stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=1F6FEB&center=true&vCenter=true&width=760&height=46&lines=34%20problems%20solved%20in%20pure%20C%3B9%20Easy%20%C2%B7%2019%20Medium%20%C2%B7%206%20Hard%3BZero%20warnings%20at%20-O2%20-Wall%20-Wextra%3BAccepted%20on%20LeetCode%20as%20%40Mohith535%3BEvery%20line%20reasoned%20out%20by%20K%20Mohith%20Kannan" alt="stats" />
 </a>
 
-<a href="https://github.com/Mohith535"><img src="https://img.shields.io/badge/Author-K%20Mohith%20Kannan-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="author" /></a>&nbsp;<img src="https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&labelColor=0d1117&logo=c&logoColor=white" alt="C" />&nbsp;<img src="https://img.shields.io/badge/Solved-34-1f6feb?style=for-the-badge&labelColor=0d1117" alt="solved" />&nbsp;<img src="https://img.shields.io/badge/Warnings-0-00b8a3?style=for-the-badge&labelColor=0d1117" alt="warnings" />&nbsp;<a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-6e7681?style=for-the-badge&labelColor=0d1117" alt="MIT" /></a>
+<a href="https://leetcode.com/u/Mohith535/"><img src="https://img.shields.io/badge/LeetCode-%40Mohith535-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=white" alt="leetcode" /></a>&nbsp;<a href="https://github.com/Mohith535"><img src="https://img.shields.io/badge/Author-K%20Mohith%20Kannan-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="author" /></a>&nbsp;<img src="https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&labelColor=0d1117&logo=c&logoColor=white" alt="C" />&nbsp;<img src="https://img.shields.io/badge/Solved-34-1f6feb?style=for-the-badge&labelColor=0d1117" alt="solved" />&nbsp;<img src="https://img.shields.io/badge/Warnings-0-00b8a3?style=for-the-badge&labelColor=0d1117" alt="warnings" />&nbsp;<a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-6e7681?style=for-the-badge&labelColor=0d1117" alt="MIT" /></a>
 
 <a href="https://mohith535.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-mohith535.github.io-0d1117?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/mohith53"><img src="https://img.shields.io/badge/LinkedIn-K%20Mohith%20Kannan-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
@@ -39,6 +39,18 @@ statement, the reasoning, and the complexity written down next to the code.
 | ⬛ **Total** | **34** | 100% | `██████████████████████` |
 
 **26** distinct topics · **34** solution files · **34** in C
+
+Every problem here is one I actually submitted and got accepted on LeetCode as [**@Mohith535**](https://leetcode.com/u/Mohith535/) — this repository is a 1:1 mirror of that profile, not a collection of solutions I read somewhere.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Mohith535/">
+  <img src="https://leetcard.jacoblin.cool/Mohith535?theme=dark&font=Fira+Code&ext=heatmap" alt="K MOHITH KANNAN on LeetCode" width="500" />
+</a>
+
+*Live from [leetcode.com/u/Mohith535](https://leetcode.com/u/Mohith535/) — the counts above are read off this profile.*
+
+</div>
 
 ---
 
@@ -199,7 +211,7 @@ Chennai, Tamil Nadu, India
 
 *I don't build apps. I build systems.*
 
-<a href="https://github.com/Mohith535"><img src="https://img.shields.io/badge/GitHub-Mohith535-181717?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="github" /></a>&nbsp;<a href="https://mohith535.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/mohith53"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="mailto:promohith535@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://leetcode.com/u/Mohith535/"><img src="https://img.shields.io/badge/LeetCode-%40Mohith535-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=white" alt="leetcode" /></a>&nbsp;<a href="https://github.com/Mohith535"><img src="https://img.shields.io/badge/GitHub-Mohith535-181717?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="github" /></a>&nbsp;<a href="https://mohith535.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" alt="portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/mohith53"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="mailto:promohith535@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="email" /></a>
 
 </div>
 
@@ -207,7 +219,8 @@ Chennai, Tamil Nadu, India
 
 ## License & ownership
 
-Every solution in this repository was reasoned out and written by **K MOHITH KANNAN**.
+Every solution in this repository was reasoned out and written by **K MOHITH KANNAN**,
+and submitted from [leetcode.com/u/Mohith535](https://leetcode.com/u/Mohith535/).
 Released under the [MIT License](./LICENSE) — free to read, learn from and reuse,
 with attribution retained.
 

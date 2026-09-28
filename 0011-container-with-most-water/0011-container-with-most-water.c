@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : Array, Two Pointers, Greedy
- *  Link         : https://leetcode.com/problems/container-with-most-water/
+ *  Problem      : https://leetcode.com/problems/container-with-most-water/
  *
  *  Approach     : Two pointers from both ends, always retreating from the shorter wall.
  *  Time         : O(n)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

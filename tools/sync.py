@@ -44,6 +44,7 @@ REPO_URL  = f"https://github.com/{HANDLE}/{REPO_NAME}"
 PORTFOLIO = "https://mohith535.github.io/portfolio/"
 LINKEDIN  = "https://linkedin.com/in/mohith53"
 EMAIL     = "promohith535@gmail.com"
+LEETCODE  = "https://leetcode.com/u/Mohith535/"
 
 DIFF_COLOR = {"Easy": "00b8a3", "Medium": "ffb800", "Hard": "ff375f"}
 DIFF_DOT   = {"Easy": "\U0001F7E9", "Medium": "\U0001F7E8", "Hard": "\U0001F7E5"}
@@ -145,10 +146,12 @@ def build_readme(problems: list[dict]) -> str:
     A(f'  <img src="{typing_svg([f"{total} problems solved in pure C",
                                 f"{counts['Easy']} Easy · {counts['Medium']} Medium · {counts['Hard']} Hard",
                                 "Zero warnings at -O2 -Wall -Wextra",
+                                f"Accepted on LeetCode as @{HANDLE}",
                                 f"Every line reasoned out by {AUTHOR.title()}"])}" alt="stats" />')
     A("</a>")
     A("")
-    A(f'<a href="https://github.com/{HANDLE}"><img src="{badge("Author", AUTHOR.title(), "0d1117", "github")}" alt="author" /></a>'
+    A(f'<a href="{LEETCODE}"><img src="{badge("LeetCode", "@" + HANDLE, "FFA116", "leetcode")}" alt="leetcode" /></a>'
+      f'&nbsp;<a href="https://github.com/{HANDLE}"><img src="{badge("Author", AUTHOR.title(), "0d1117", "github")}" alt="author" /></a>'
       f'&nbsp;<img src="{badge("Language", "C", "A8B9CC", "c")}" alt="C" />'
       f'&nbsp;<img src="{badge("Solved", str(total), "1f6feb")}" alt="solved" />'
       f'&nbsp;<img src="{badge("Warnings", "0", "00b8a3")}" alt="warnings" />'
@@ -193,6 +196,21 @@ def build_readme(problems: list[dict]) -> str:
     A(f"**{len(topics)}** distinct topics · "
       f"**{sum(langs.values())}** solution files · "
       + " · ".join(f"**{v}** in {k}" for k, v in langs.most_common()))
+    A("")
+    A(f"Every problem here is one I actually submitted and got accepted on LeetCode as "
+      f"[**@{HANDLE}**]({LEETCODE}) — this repository is a 1:1 mirror of that profile, "
+      f"not a collection of solutions I read somewhere.")
+    A("")
+    A('<div align="center">')
+    A("")
+    A(f'<a href="{LEETCODE}">')
+    A(f'  <img src="https://leetcard.jacoblin.cool/{HANDLE}?theme=dark&font=Fira+Code&ext=heatmap" '
+      f'alt="{AUTHOR} on LeetCode" width="500" />')
+    A("</a>")
+    A("")
+    A(f"*Live from [leetcode.com/u/{HANDLE}]({LEETCODE}) — the counts above are read off this profile.*")
+    A("")
+    A("</div>")
     A("")
     A("---")
     A("")
@@ -318,7 +336,8 @@ def build_readme(problems: list[dict]) -> str:
     A("")
     A("*I don't build apps. I build systems.*")
     A("")
-    A(f'<a href="https://github.com/{HANDLE}"><img src="{badge("GitHub", HANDLE, "181717", "github")}" alt="github" /></a>'
+    A(f'<a href="{LEETCODE}"><img src="{badge("LeetCode", "@" + HANDLE, "FFA116", "leetcode")}" alt="leetcode" /></a>'
+      f'&nbsp;<a href="https://github.com/{HANDLE}"><img src="{badge("GitHub", HANDLE, "181717", "github")}" alt="github" /></a>'
       f'&nbsp;<a href="{PORTFOLIO}"><img src="{badge("Portfolio", "Visit", "0d1117", "googlechrome")}" alt="portfolio" /></a>'
       f'&nbsp;<a href="{LINKEDIN}"><img src="{badge("LinkedIn", "Connect", "0A66C2", "linkedin")}" alt="linkedin" /></a>'
       f'&nbsp;<a href="mailto:{EMAIL}"><img src="{badge("Email", "Say hi", "D14836", "gmail")}" alt="email" /></a>')
@@ -331,7 +350,8 @@ def build_readme(problems: list[dict]) -> str:
     # ---------------------------------------------------------- license
     A("## License & ownership")
     A("")
-    A(f"Every solution in this repository was reasoned out and written by **{AUTHOR}**.")
+    A(f"Every solution in this repository was reasoned out and written by **{AUTHOR}**,")
+    A(f"and submitted from [leetcode.com/u/{HANDLE}]({LEETCODE}).")
     A("Released under the [MIT License](./LICENSE) — free to read, learn from and reuse,")
     A("with attribution retained.")
     A("")

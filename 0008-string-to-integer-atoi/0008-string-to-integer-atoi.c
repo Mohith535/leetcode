@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : String
- *  Link         : https://leetcode.com/problems/string-to-integer-atoi/
+ *  Problem      : https://leetcode.com/problems/string-to-integer-atoi/
  *
  *  Approach     : Walk the string by hand through the four `atoi` phases.
  *  Time         : O(n)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

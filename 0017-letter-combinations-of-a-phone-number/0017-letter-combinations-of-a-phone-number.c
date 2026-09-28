@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : Hash Table, String, Backtracking
- *  Link         : https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+ *  Problem      : https://leetcode.com/problems/letter-combinations-of-a-phone-number/
  *
  *  Approach     : Backtracking: choose a letter for the current digit, recurse, repeat.
  *  Time         : O(4^n * n)
  *  Space        : O(n)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

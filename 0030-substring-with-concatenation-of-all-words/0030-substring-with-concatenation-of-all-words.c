@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Hard
  *  Topics       : Hash Table, String, Sliding Window
- *  Link         : https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+ *  Problem      : https://leetcode.com/problems/substring-with-concatenation-of-all-words/
  *
  *  Approach     : One sliding window per starting offset, matched on word counts instead of characters.
  *  Time         : O(wordLen * n * k)
  *  Space        : O(k)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.

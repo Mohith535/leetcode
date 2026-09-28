@@ -3,13 +3,14 @@
  *  ------------------------------------------------------------------------
  *  Difficulty   : Medium
  *  Topics       : Array, Two Pointers
- *  Link         : https://leetcode.com/problems/next-permutation/
+ *  Problem      : https://leetcode.com/problems/next-permutation/
  *
  *  Approach     : Find the rightmost ascent, swap in its next-largest successor, then reverse the tail.
  *  Time         : O(n)
  *  Space        : O(1)
  *
  *  Author       : K MOHITH KANNAN  (github.com/Mohith535)
+ *  Solved as    : https://leetcode.com/u/Mohith535/
  *  Portfolio    : https://mohith535.github.io/portfolio/
  *  Repository   : https://github.com/Mohith535/leetcode
  *  License      : MIT — © K MOHITH KANNAN. Written by hand, not generated.
